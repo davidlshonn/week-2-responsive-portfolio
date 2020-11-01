@@ -4,4 +4,8 @@ The motivation of this project is to build a portfolio website which will showca
 
 ## Sceen Capture of Live Website
 
-![WebPage ScreenCapture](/Assets/portfolio-capture.jpeg "ScreenCapture")
+![WebPage ScreenCapture](./Assets/About-Capture.jpg)
+
+![WebPage ScreenCapture](./Assets/Portfolio-Capture.jpg)
+
+![WebPage ScreenCapture](./Assets/Contact-Capture.jpg)
