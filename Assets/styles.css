@@ -1,10 +1,16 @@
+/* Univeral Row Padding */
+
 .row {
   padding-top: 5%;
 }
 
+/* Porfolio Card Centered */
+
 .card {
   justify-content: center;
 }
+
+/* CSS Removed from HTML Doc */
 
 .fa {
   font-size: 48px;
